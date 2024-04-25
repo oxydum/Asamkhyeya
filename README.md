@@ -1,1 +1,1 @@
-![Asamkhyeya](asamkhyeya.svg "Asamkhyeya")
+![Asamkhyeya](Asamkhyeya.svg "Asamkhyeya")
